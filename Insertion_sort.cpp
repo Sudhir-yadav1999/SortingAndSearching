@@ -35,7 +35,7 @@ void insertionsort(int arr[],int n)
 
 int main()
 {
-    //bubble sort
+    
      int arr[] = {64, 34, 25, 12, 22, 11, 90};
     int n=sizeof(arr)/sizeof(arr[0]);
      insertionsort(arr,n);
